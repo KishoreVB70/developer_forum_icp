@@ -34,6 +34,14 @@ A decentralized, completely on-chain developer forum where users can post their 
         1. Providing answers
         2. Upvoting the question and the answers
         3. Providing rewards to the questioner and respondent
+9. Weekly / monthly community rewards pool
+    1. Community members who don't have the time to individually provide bounty to users can provide their contribution to the community rewards pool
+    2. Different pools are made for different domains such as:
+        1. Javascript
+        2. Rust
+        3. ICP
+        4. Etc.,
+    3. Every week / month users with the highest number of upvotes in both questions and answers will receive a share of the community pool tokens
 ## Functions
 1. Register
 	1. Add up as a user in the community
@@ -50,5 +58,5 @@ A decentralized, completely on-chain developer forum where users can post their 
 11. Retract bounty
 12. Enforce bounty
 	1. Manually provide bounty if answer doesn't meet threshold upvotes
-13. Pooling resources for weekly/ monthly bounty
+13. Add to pool
 14. Rewarding weekly/ monthly bounty
