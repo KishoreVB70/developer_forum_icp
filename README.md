@@ -43,20 +43,20 @@ A decentralized, completely on-chain developer forum where users can post their 
         4. Etc.,
     3. Every week / month users with the highest number of upvotes in both questions and answers will receive a share of the community pool tokens
 ## Functions
-1. Register
-	1. Add up as a user in the community
-	2. Helps to keep track of your questions, answers and upvotes
-2. View profile
-3. Post question
-4. View questions
-5. Upvote question
-6. Reward questioner
-7. Answer question
-8. Upvote answer
-9. Reward respondent
-10. Provide bounty
-11. Retract bounty
-12. Enforce bounty
-	1. Manually provide bounty if answer doesn't meet threshold upvotes
-13. Add to pool
-14. Rewarding weekly/ monthly bounty
+1. Post question
+2. View questions
+3. Upvote question
+4. Reward questioner
+5. Answer question
+6. Upvote answer
+7. Reward respondent
+8. Provide bounty
+9. Retract bounty
+10. Enforce bounty
+    1. Manually provide bounty if answer doesn't meet threshold upvotes
+11. Add to pool
+12. Rewarding weekly/ monthly bounty
+13. Register
+    1. Add up as a user in the community
+    2. Helps to keep track of your questions, answers and upvotes
+14. View profile
