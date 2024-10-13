@@ -35,3 +35,20 @@ A decentralized, completely on-chain developer forum where users can post their 
         2. Upvoting the question and the answers
         3. Providing rewards to the questioner and respondent
 ## Functions
+1. Register
+	1. Add up as a user in the community
+	2. Helps to keep track of your questions, answers and upvotes
+2. View profile
+3. Post question
+4. View questions
+5. Upvote question
+6. Reward questioner
+7. Answer question
+8. Upvote answer
+9. Reward respondent
+10. Provide bounty
+11. Retract bounty
+12. Enforce bounty
+	1. Manually provide bounty if answer doesn't meet threshold upvotes
+13. Pooling resources for weekly/ monthly bounty
+14. Rewarding weekly/ monthly bounty
